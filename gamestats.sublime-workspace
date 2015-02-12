@@ -1,0 +1,696 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"$locaiton",
+				"$location	AngularJS(DI)"
+			],
+			[
+				"$loc",
+				"$location	AngularJS(DI)"
+			],
+			[
+				"$coo",
+				"$cookieStore	AngularJS(DI)"
+			],
+			[
+				"controller",
+				"controllerAs"
+			],
+			[
+				"control",
+				"controllerAs"
+			],
+			[
+				"line",
+				"line_numbers"
+			],
+			[
+				"$htt",
+				"$httpProvider"
+			],
+			[
+				"con",
+				"config	AngularJS"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"consol",
+				"console.log(message);"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"home",
+				"homeScore"
+			],
+			[
+				"Game",
+				"GameFactory"
+			],
+			[
+				"game",
+				"game-detail"
+			],
+			[
+				"ng-sw",
+				"ng-switch-default	AngularJS"
+			],
+			[
+				"ng-swith",
+				"ng-switch-when	AngularJS"
+			],
+			[
+				"ng",
+				"ng-class	AngularJS"
+			],
+			[
+				"awa",
+				"awayScore"
+			],
+			[
+				"Gam",
+				"GameFactory"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"ga",
+				"GameService"
+			],
+			[
+				"gam",
+				"gameData"
+			],
+			[
+				"an",
+				"angularfire"
+			],
+			[
+				"bowr",
+				"bower_components"
+			],
+			[
+				"$locai",
+				"$locationProvider"
+			],
+			[
+				"$location",
+				"$locationProvider	AngularJS(DI)"
+			],
+			[
+				"cont",
+				"controller	AngularJS"
+			],
+			[
+				"ang",
+				"angApp"
+			],
+			[
+				"$rou",
+				"$urlRouterProvider"
+			],
+			[
+				"bower",
+				"bower_components"
+			],
+			[
+				"no",
+				"node_modules"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instas",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())  ",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/alewis/Sites/gamestats-ang",
+		"/Users/alewis/Sites/gamestats-ang/client",
+		"/Users/alewis/Sites/gamestats-ang/client/assets/images",
+		"/Users/alewis/Sites/gamestats-ang/server",
+		"/Users/alewis/Sites/gamestats-ang/server/api",
+		"/Users/alewis/Sites/gamestats-ang/server/auth"
+	],
+	"file_history":
+	[
+		"/Users/alewis/Sites/gamestats-ang/server/api/user/user.controller.js",
+		"/Users/alewis/Sites/gamestats-ang/server/auth/auth.service.js",
+		"/Users/alewis/Sites/gamestats-ang/server/.jshintrc",
+		"/Users/alewis/Sites/gamestats-ang/client/.jshintrc",
+		"/Users/alewis/Sites/gamestats-ang/server/auth/index.js",
+		"/Users/alewis/Sites/gamestats-ang/client/components/auth/user.service.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-usemin/tasks/usemin.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/karma/node_modules/connect/examples/upload-stream.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/ejs/lib/utils.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-contrib-clean/AUTHORS",
+		"/Users/alewis/Sites/gamestats-ang/client/bower_components/angular-ui-router/release/angular-ui-router.js",
+		"/Users/alewis/Sites/gamestats-ang/client/app/app.js",
+		"/Users/alewis/Sites/gamestats-ang/client/components/modal/modal.service.js",
+		"/Users/alewis/Sites/gamestats-ang/.sass-cache/3cf3da1e915894cdabf29f51a75a6fa1758153db/modal.scssc",
+		"/Users/alewis/Sites/gamestats-ang/client/components/mongoose-error/mongoose-error.directive.js",
+		"/Users/alewis/Sites/gamestats-ang/client/app/main/main.html",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/mongoose/bin/mongoose.min.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/composable-middleware/lib/middleware-common-object.js",
+		"/Users/alewis/Sites/gamestats-ang/client/components/navbar/navbar.controller.js",
+		"/Users/alewis/Sites/gamestats-ang/client/components/navbar/navbar.html",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-ng-annotate/node_modules/.bin/ng-annotate",
+		"/Users/alewis/Sites/gamestats-ang/client/app/account/login/login.controller.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/karma/node_modules/optimist/example/line_count_options.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/connect-livereload/LICENSE",
+		"/Users/alewis/Sites/gamestats-ang/client/app/admin/admin.controller.js",
+		"/Users/alewis/Sites/gamestats-ang/client/app/admin/admin.js",
+		"/Users/alewis/Sites/gamestats-ang/client/app/account/settings/settings.controller.js",
+		"/Users/alewis/Sites/gamestats-ang/client/app/account/account.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-contrib-sass/docs/sass-examples.md",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/jshint-stylish/stylish.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/Settings.js",
+		"/Users/alewis/Sites/gamestats-ang/.sass-cache/735d280e37a8a215f6b2163e0531562486bc07c3/admin.scssc",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-protractor-runner/node_modules/split/node_modules/through/test/auto-destroy.js",
+		"/Users/alewis/Sites/gamestats-ang/server/app.js",
+		"/Users/alewis/Sites/gamestats-ang/.tmp/app/app.css",
+		"/Users/alewis/Sites/gamestats-ang/client/index.html",
+		"/Users/alewis/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/alewis/Sites/gamestats-ang/server/api/user/index.js",
+		"/Users/alewis/Sites/gamestats-ang/server/api/thing/thing.model.js",
+		"/Users/alewis/Sites/gamestats-ang/server/api/thing/thing.controller.js",
+		"/Users/alewis/Sites/gamestats-ang/server/routes.js",
+		"/Users/alewis/Sites/gamestats-ang/client/app/account/login/login.html",
+		"/Users/alewis/Sites/gamestats-ang/client/app/app.scss",
+		"/Users/alewis/Sites/gamestats-ang/.sass-cache/8e9473ba488c196ed78776b538b7684a07079835/login.scssc",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/karma/node_modules/log4js/lib/appenders/logLevelFilter.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/lodash/lodash.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-contrib-clean/test/fixtures/sample_long/long.txt",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-express-server/test/server.coffee",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/karma/node_modules/log4js/test/streams/BaseRollingFileStream-test.js",
+		"/Users/alewis/Sites/gamestats-ang/client/app/account/settings/settings.html",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-protractor-runner/node_modules/protractor/node_modules/selenium-webdriver/test/stale_element_test.js",
+		"/Users/alewis/Sites/gamestats-ang/client/bower_components/angular/angular-csp.css",
+		"/Users/alewis/Sites/gamestats-ang/client/app/admin/admin.html",
+		"/Users/alewis/Sites/gamestats-ang/.jshintrc",
+		"/Users/alewis/Sites/gamestats-ang/.editorconfig",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-contrib-htmlmin/tasks/htmlmin.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-angular-templates/node_modules/.bin/html-minifier",
+		"/Users/alewis/Sites/gamestats-ang/.sass-cache/235116595077228357d8896382030a50d7d80da3/_hide-text.scssc",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/body-parser/History.md",
+		"/Users/alewis/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/alewis/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/alewis/Sites/gamestats-ang/README.md",
+		"/Users/alewis/Sites/gamestats-ang/.sass-cache/0a61d39f493dfe2292e962ec0810bf6989fcd7db/_responsive-embed.scssc",
+		"/Users/alewis/Sites/gamestats-ang/client/app/main/main.js",
+		"/Users/alewis/Sites/gamestats-ang/gamestats.sublime-project",
+		"/Users/alewis/Sites/gamestats-ang/.gitignore",
+		"/Users/alewis/Library/Application Support/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/Users/alewis/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/alewis/Library/Application Support/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/Users/alewis/Sites/gamestats-ang/client/app/main/main.controller.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-dom-munger/test/expected/read_order.txt",
+		"/Users/alewis/Sites/gamestats-ang/.sass-cache/19309e1ec4cde07db0ba49b88eb911a209a71ffb/main.scssc",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-contrib-uglify/node_modules/uglify-js/lib/mozilla-ast.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/ejs/Makefile",
+		"/Users/alewis/Sites/gamestats-ang/package.json",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-protractor-runner/tasks/protractor_runner.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/karma/lib/preprocessor.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-autoprefixer/node_modules/autoprefixer/data/prefixes.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/connection/read_preference.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-protractor-runner/node_modules/protractor/node_modules/selenium-webdriver/docs/class_webdriver_logging_Preferences.html",
+		"/Users/alewis/Sites/gamestats-ang/client/app/main/main.controller.spec.js",
+		"/Users/alewis/Sites/gamestats-ang/.bowerrc",
+		"/Users/alewis/Sites/gamestats-ang/server/.jshintrc-spec",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-contrib-jshint/node_modules/.bin/jshint",
+		"/Users/alewis/Sites/gamestats-ang/client/bower_components/angular-scenario/jstd-scenario-adapter.js",
+		"/Users/alewis/Sites/gamestats-ang/client/bower_components/font-awesome/scss/_rotated-flipped.scss",
+		"/Users/alewis/Sites/gamestats-ang/client/bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap/bootstrap.scss",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/karma/node_modules/http-proxy/node_modules/pkginfo/docs/docco.css",
+		"/Users/alewis/Sites/gamestats-ang/client/bower_components/bootstrap/dist/css/bootstrap.css.map",
+		"/Users/alewis/Sites/gamestats-ang/client/bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap/_popovers.scss",
+		"/Users/alewis/Sites/gamestats-ang/client/app/account/login/login.scss",
+		"/Users/alewis/Sites/gamestats-ang/client/app/admin/admin.scss",
+		"/Users/alewis/Sites/gamestats-ang/client/app/main/main.scss",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/adm-zip/.idea/scopes/scope_settings.xml",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-protractor-runner/node_modules/protractor/node_modules/jasmine/node_modules/jasmine-core/.sass-cache/ddd77ce370be3d7cdc294ca1fbb6be0ba1a94b93/_appearance.scssc",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-protractor-runner/node_modules/protractor/node_modules/jasmine/node_modules/jasmine-core/.sass-cache/da3a627bbacd6c26d62943e4e8d9fee54786aa44/_appearance.scssc",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-protractor-runner/node_modules/protractor/node_modules/jasmine/node_modules/jasmine-core/.sass-cache/d9fb834f26917e3731d8396f6171715b7d4cce29/_appearance.scssc",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-protractor-runner/node_modules/protractor/node_modules/jasmine/node_modules/jasmine-core/.sass-cache/0f32e16ff79ecad90b630b26e3ba41e1f9a6ab52/_appearance.scssc",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/heapProfiler.css",
+		"/Users/alewis/Sites/gamestats-ang/.sass-cache/1f1e74180d3f854fa9115a52395423ca40c69267/app.scssc",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-protractor-runner/node_modules/protractor/testapp/app.css",
+		"/Users/alewis/Sites/gamestats-ang/.tmp/app/app.css.map",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/errorhandler/public/style.css",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-protractor-runner/node_modules/protractor/node_modules/jasmine/node_modules/jasmine-core/.idea/codeStyleSettings.xml",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/mongoose/node_modules/mpromise/.idea/codeStyleSettings.xml",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/should/.idea/codeStyleSettings.xml",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-google-cdn/node_modules/bower/node_modules/cardinal/examples/.cardinalrc",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/css-animation.json",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/CSSNamedFlowView.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/css-image-set.json",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/css-font-stretch.json",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/cssNamedFlows.css",
+		"/Users/alewis/Sites/gamestats-ang/client/bower_components/jquery/src/css/var/cssExpand.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/CSSStyleModel.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/css-supports-api.json",
+		"/Users/alewis/Sites/gamestats-ang/client/bower_components/jquery/src/selector-sizzle.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/cm/css.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/CSSStyleSheetMapping.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-dom-munger/node_modules/cheerio/lib/api/css.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/CSSMetadata.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/css-sticky.json",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/css-shapes.json",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/css-selection.json",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/css-sel3.json",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/css-sel2.json",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-usemin/lib/config/cssmin.js",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-dom-munger/test/fixtures/css3.css",
+		"/Users/alewis/Sites/gamestats-ang/node_modules/grunt-dom-munger/test/fixtures/css2.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/alewis/Sites/yo-ang"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"this",
+			"$scope",
+			"vm",
+			"$scope",
+			"gameStats",
+			"span",
+			"yoAngApp",
+			"app",
+			"largeGridHeight",
+			"h1",
+			"h4",
+			"IMG",
+			"h1",
+			"var",
+			"student",
+			"StudentsFactory",
+			"deleteStudent",
+			"student",
+			"Student",
+			"student",
+			"Student",
+			"student",
+			"updateStudent",
+			"h4",
+			"primary",
+			"warning",
+			"h2",
+			"h1",
+			"h2",
+			"input",
+			"mate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"gameStats"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "gamestats.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"user",
+				"client/components/auth/user.service.js"
+			],
+			[
+				"auth.ser",
+				"server/auth/auth.service.js"
+			],
+			[
+				"modal.srvi",
+				"client/components/modal/modal.service.js"
+			],
+			[
+				"mongoose-error",
+				"client/components/mongoose-error/mongoose-error.directive.js"
+			],
+			[
+				"navbar.con",
+				"client/components/navbar/navbar.controller.js"
+			],
+			[
+				"login.co",
+				"client/app/account/login/login.controller.js"
+			],
+			[
+				"admin.co",
+				"client/app/admin/admin.controller.js"
+			],
+			[
+				"admin",
+				"client/app/admin/admin.js"
+			],
+			[
+				"account",
+				"client/app/account/account.js"
+			],
+			[
+				"settings.on",
+				"client/app/account/settings/settings.controller.js"
+			],
+			[
+				"account.",
+				"client/app/account/account.js"
+			],
+			[
+				"admin.con",
+				"client/app/admin/admin.controller.js"
+			],
+			[
+				"app.js",
+				"client/app/app.js"
+			],
+			[
+				"settings.co",
+				"client/app/account/settings/settings.controller.js"
+			],
+			[
+				"admin.js",
+				"client/app/admin/admin.js"
+			],
+			[
+				"login.on",
+				"client/app/account/login/login.controller.js"
+			],
+			[
+				"settings.con",
+				"client/app/account/settings/settings.controller.js"
+			],
+			[
+				"settings.js",
+				"node_modules/grunt-node-inspector/node_modules/node-inspector/front-end/Settings.js"
+			],
+			[
+				"accou",
+				"client/app/account/account.js"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"route",
+				"server/routes.js"
+			],
+			[
+				"main.html",
+				"client/app/main/main.html"
+			],
+			[
+				"app.css",
+				".tmp/app/app.css"
+			],
+			[
+				"inde",
+				"client/index.html"
+			],
+			[
+				"in",
+				"client/index.html"
+			],
+			[
+				"ui_",
+				"client/app/directives/UI_controls.js"
+			],
+			[
+				"contract_app",
+				"client/app/components/contract/contract_application_ctrl.js"
+			],
+			[
+				"contract_add",
+				"client/coverage/PhantomJS 1.9.8 (Mac OS X)/app/components/contract/contract_address.js.html"
+			],
+			[
+				"contract",
+				"client/app/components/contract/contract_application_ctrl.js"
+			],
+			[
+				"app",
+				"client/app/app.js"
+			],
+			[
+				"grid_ser",
+				"client/app/services/grid/grid_service.js"
+			],
+			[
+				"ui_con",
+				"client/app/directives/UI_controls.js"
+			],
+			[
+				"field_secu",
+				"client/app/components/security/services/field_security_service.js"
+			],
+			[
+				"secure",
+				"client/app/components/security/directives/secure_field.js"
+			],
+			[
+				"contract_ser",
+				"client/app/components/contract/contract_service.js"
+			],
+			[
+				"api_contracts_document",
+				"client/api_tests/tests/contracts/api_contracts_documents_view_spec.js"
+			],
+			[
+				"api_contracts_docu",
+				"client/api_tests/tests/contracts/api_contracts_documents_get_createdby_spec.js"
+			],
+			[
+				"contract_documents_view",
+				"client/api_tests/tests/contracts/api_contracts_documents_view_search_spec.js"
+			],
+			[
+				"app.",
+				"public/app/app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
