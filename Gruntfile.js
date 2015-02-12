@@ -409,9 +409,12 @@ module.exports = function(grunt) {
                 sourceMap: true
             },
             dist: {
-                files: {
-                    'dist/app.js': 'src/app.js'
-                }
+                files: [{
+                    expand: true,
+                    src: ['client/**/*.js', 'client/*.js', 'server/**/*.js', 'server/*.js'],
+                    dest: '.es5/',
+                    ext: '.js'
+                }]
             }
         },
 
@@ -665,7 +668,7 @@ module.exports = function(grunt) {
         'cssmin',
         'uglify',
         'rev',
-        '6to5'
+        '6to5',
         'usemin'
     ]);
 
