@@ -406,9 +406,12 @@ module.exports = function (grunt) {
             sourceMap: true
         },
         dist: {
-            files: {
-                'dist/app.js': 'src/app.js'
-            }
+            files: [{
+                expand: true,
+                src: ['client/**/*.js', 'client/*.js', 'server/**/*.js', 'server/*.js'],
+                dest: '.es5/',
+                ext: '.js'
+            }]
         }
     },
 
@@ -580,7 +583,7 @@ module.exports = function (grunt) {
       return grunt.task.run([
         'clean:server',
         'env:all',
-        'injector:sass', 
+        'injector:sass',
         'concurrent:server',
         'injector',
         'wiredep',
@@ -592,7 +595,7 @@ module.exports = function (grunt) {
     grunt.task.run([
       'clean:server',
       'env:all',
-      'injector:sass', 
+      'injector:sass',
       'concurrent:server',
       'injector',
       'wiredep',
@@ -622,7 +625,7 @@ module.exports = function (grunt) {
       return grunt.task.run([
         'clean:server',
         'env:all',
-        'injector:sass', 
+        'injector:sass',
         'concurrent:test',
         'injector',
         'autoprefixer',
@@ -635,7 +638,7 @@ module.exports = function (grunt) {
         'clean:server',
         'env:all',
         'env:test',
-        'injector:sass', 
+        'injector:sass',
         'concurrent:test',
         'injector',
         'wiredep',
@@ -653,7 +656,7 @@ module.exports = function (grunt) {
 
   grunt.registerTask('build', [
     'clean:dist',
-    'injector:sass', 
+    'injector:sass',
     'concurrent:dist',
     'injector',
     'wiredep',
@@ -667,7 +670,7 @@ module.exports = function (grunt) {
     'cssmin',
     'uglify',
     'rev',
-    '6to5'
+    '6to5',
     'usemin'
   ]);
 
