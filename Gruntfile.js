@@ -353,6 +353,9 @@ module.exports = function(grunt) {
                     mode: true
                 }
             },
+            es5static: {
+
+            },
             dist: {
                 files: [{
                     expand: true,
@@ -413,12 +416,12 @@ module.exports = function(grunt) {
 
         '6to5': {
             options: {
-                sourceMap: true
+                sourceMap: false
             },
             dist: {
                 files: [{
                     expand: true,
-                    src: ['client/**/*.js', 'client/*.js', 'server/**/*.js', 'server/*.js'],
+                    src: ['client/**/*.js', 'client/*.js', 'server/**/*.js', 'server/*.js', '!**/bower_components/**'],
                     dest: '.es5/',
                     ext: '.js'
                 }]
