@@ -1,5 +1,8 @@
-(function() {
 'use strict';
+import angular from 'angular';
+import 'angular-cookies';
+import 'angular-resource';
+
 
 angular.module('gameStats', [
   'ngCookies',
@@ -8,7 +11,7 @@ angular.module('gameStats', [
   'ui.router',
   'ui.bootstrap'
 ])
-  .config(['$stateProvider', '$urlRouterProvider', '$locationProvider', '$httpProvider', 
+  .config(['$stateProvider', '$urlRouterProvider', '$locationProvider', '$httpProvider',
     function ($stateProvider, $urlRouterProvider, $locationProvider, $httpProvider) {
       $urlRouterProvider
         .otherwise('/');
@@ -17,7 +20,7 @@ angular.module('gameStats', [
       $httpProvider.interceptors.push('authInterceptor');
   }])
 
-  .factory('authInterceptor', ['$rootScope', '$q', '$cookieStore', '$location', 
+  .factory('authInterceptor', ['$rootScope', '$q', '$cookieStore', '$location',
     function ($rootScope, $q, $cookieStore, $location) {
       return {
         // Add authorization token to headers
@@ -44,7 +47,7 @@ angular.module('gameStats', [
       };
   }])
 
-  .run(['$rootScope', '$location', 'Auth', 
+  .run(['$rootScope', '$location', 'Auth',
     function ($rootScope, $location, Auth) {
       // Redirect to login if route requires auth and you're not logged in
       $rootScope.$on('$stateChangeStart', function (event, next) {
@@ -55,5 +58,4 @@ angular.module('gameStats', [
         });
       });
   }]);
-  
-  })();
+
